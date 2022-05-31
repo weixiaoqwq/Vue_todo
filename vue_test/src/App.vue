@@ -28,6 +28,7 @@ export default {
     this.$bus.$on('GetName', (data) => {
       data('123')
     })
+    alert('弹窗')
   }
 }
 </script>
