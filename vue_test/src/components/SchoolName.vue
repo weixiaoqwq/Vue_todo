@@ -15,6 +15,11 @@ export default {
       banji:'20xx2',
       sex:'男'
     }
+  },
+  methods:{
+    test(){
+      alert('123')
+    }
   }
 }
 </script>
