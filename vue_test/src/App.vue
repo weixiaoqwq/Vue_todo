@@ -2,7 +2,7 @@
   <div>
     <schoolName></schoolName>
     <XueSheng name="郑森元" age="18" sex="男"></XueSheng>
-    <button @click="test">全局弹窗1</button>
+    <button @click="test">全局弹窗test</button>
     <button @click="Tipe">全局提示</button>
 
   </div>
