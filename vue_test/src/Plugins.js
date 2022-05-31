@@ -8,7 +8,7 @@ export default {
 
         //定义一个全局弹窗
         Vue.prototype.hello=()=>{
-            alert('你好')
+            alert('你好你好啊')
         }
 
         Vue.mixin({
