@@ -12,7 +12,8 @@ export default {
   data(){
     return{
       name:'郑森元',
-      banji:'20xx2'
+      banji:'20xx2',
+      sex:'男'
     }
   }
 }
